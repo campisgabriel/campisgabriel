@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Gabriel but some people call me GCP👋
 
-<!--
-**campisgabriel/campisgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Analytics Engineer and Data Product Manager who loves building useful things with data.
 
-Here are some ideas to get you started:
+Over the last few years, I’ve worked on data platforms, pipelines, models, and visualizations, mostly using tools like dbt, BigQuery, Databricks, and Snowflake.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy connecting business needs with good engineering, and I'm always learning something new.
+
+You’ll find a few experiments and personal projects here. Thanks for stopping by!
+
+📫 
+. [LinkedIn](https://www.linkedin.com/in/gabrielcampis) 
+· [Medium](https://medium.com/@gabriel.campis)
