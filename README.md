@@ -1,6 +1,6 @@
-# Hi, I'm Gabriel but some people call me GCP👋
+# Hi, I'm Gabriel👋
 
-I'm an Analytics Engineer and Data Product Manager who loves building useful things with data.
+I'm Gabriel, but some people call me GCP. I'm an Analytics Engineer and Data Product Manager who loves building useful things with data.
 
 Over the last few years, I’ve worked on data platforms, pipelines, models, and visualizations, mostly using tools like dbt, BigQuery, Databricks, and Snowflake.
 
